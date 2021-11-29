@@ -1,11 +1,6 @@
 * Ant Colony Optimization (ACO)
 
-The function for algorithm benchmark is the [[https://en.wikipedia.org/wiki/Himmelblau%27s_function][Himmelblau's function]] which minimas are at (3,2), (-2.8,3.1), (-3.7, -3.2) and (3.5, -1.8).
-
-#+CAPTION: Himmelblau's function
-#+NAME: fig: HF
-[[https://en.wikipedia.org/wiki/Himmelblau%27s_function#/media/File:Himmelblau_contour.svg]]
-
+The algorithm is tested on random graphs and it tries to solve the TSP (Travelling Salesman Problem) for a given graph.
 
 ** Repo organization
 
